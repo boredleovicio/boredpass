@@ -1,15 +1,11 @@
 {
-  "name": "SILVER Membership",
-  "description": "",
+  "name": "Silver Membership",
+  "description": "Os membros têm acesso especial a benefícios exclusivos",
   "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/silverpass.png",
     "attributes": [
     {
-      "trait_type": "Type", 
-      "value": "Membership"
-    },
-    {
-      "trait_type": "Rarity", 
-      "value": "SILVER"
+      "trait_type": "MEMBERSHIP LEVEL", 
+      "value": "Silver"
     }
 ]
 }
