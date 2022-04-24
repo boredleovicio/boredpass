@@ -1,15 +1,11 @@
 {
-  "name": "BRONZE Membership",
-  "description": "",
+  "name": "Bronze Membership",
+  "description": "Os membros têm acesso especial a benefícios exclusivos",
   "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/bronzepass.png",
     "attributes": [
     {
-      "trait_type": "Type", 
-      "value": "Membership"
-    },
-    {
-      "trait_type": "Rarity", 
-      "value": "BRONZE"
+      "trait_type": "MEMBERSHIP LEVEL", 
+      "value": "Bronze"
     }
 ]
 }
