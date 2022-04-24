@@ -1,0 +1,15 @@
+{
+  "name": "BRONZE Membership",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/bronzepass.png",
+    "attributes": [
+    {
+      "trait_type": "Type", 
+      "value": "Membership"
+    },
+    {
+      "trait_type": "Rarity", 
+      "value": "BRONZE"
+    }
+]
+}
