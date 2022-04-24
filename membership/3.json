@@ -1,7 +1,7 @@
 {
-  "name": "BRONZE Membership",
+  "name": "SILVER Membership",
   "description": "",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/silverpass.png",
     "attributes": [
     {
       "trait_type": "Type", 
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Rarity", 
-      "value": "BRONZE"
+      "value": "SILVER"
     }
 ]
 }
