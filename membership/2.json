@@ -1,0 +1,15 @@
+{
+  "name": "SILVER Membership",
+  "description": "",
+  "image": "",
+    "attributes": [
+    {
+      "trait_type": "Type", 
+      "value": "Membership"
+    },
+    {
+      "trait_type": "Rarity", 
+      "value": "SILVER"
+    }
+]
+}
