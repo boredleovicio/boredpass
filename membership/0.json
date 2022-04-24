@@ -1,15 +1,11 @@
 {
-  "name": "FOUNDER Membership",
-  "description": "",
+  "name": "Founder Membership",
+  "description": "Os membros têm acesso especial a benefícios exclusivos",
   "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/fouderpass.png",
     "attributes": [
     {
-      "trait_type": "Type", 
-      "value": "Membership"
-    },
-    {
-      "trait_type": "Rarity", 
-      "value": "FOUNDER"
+      "trait_type": "MEMBERSHIP LEVEL", 
+      "value": "Founder"
     }
 ]
 }
