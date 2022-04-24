@@ -1,15 +1,11 @@
 {
-  "name": "GOLD Membership",
-  "description": "",
+  "name": "Gold Membership",
+  "description": "Os membros têm acesso especial a benefícios exclusivos",
   "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/goldpass.png",
     "attributes": [
     {
-      "trait_type": "Type", 
-      "value": "Membership"
-    },
-    {
-      "trait_type": "Rarity", 
-      "value": "GOLD"
+      "trait_type": "MEMBERSHIP LEVEL", 
+      "value": "Gold"
     }
 ]
 }
