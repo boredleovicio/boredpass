@@ -1,7 +1,7 @@
 {
-  "name": "GOLD Membership",
+  "name": "FOUNDER Membership",
   "description": "",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/fouderpass.png",
     "attributes": [
     {
       "trait_type": "Type", 
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Rarity", 
-      "value": "GOLD"
+      "value": "FOUNDER"
     }
 ]
 }
