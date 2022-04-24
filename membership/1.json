@@ -1,7 +1,7 @@
 {
-  "name": "DIAMOUND Membership",
+  "name": "GOLD Membership",
   "description": "",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/goldpass.png",
     "attributes": [
     {
       "trait_type": "Type", 
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "Rarity", 
-      "value": "DIAMOUND"
+      "value": "GOLD"
     }
 ]
 }
