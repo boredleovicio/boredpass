@@ -1,11 +1,11 @@
 {
-  "name": "Diamound Membership",
+  "name": "Bored Pass",
   "description": "Os membros têm acesso especial a benefícios exclusivos",
   "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/diamound_pass.png",
     "attributes": [
     {
       "trait_type": "MEMBERSHIP LEVE", 
-      "value": "Diamound"
+      "value": "Bored"
     }
 ]
 }
