@@ -1,0 +1,11 @@
+{
+  "name": "Founder Pass",
+  "description": "Os membros têm acesso especial a benefícios exclusivos",
+  "image": "https://raw.githubusercontent.com/boredleovicio/boredpass/main/membership/image/goldpass.png",
+  "attributes": [
+    {
+      "trait_type": "MEMBERSHIP LEVEL", 
+      "value": "Founder"
+    }
+]
+}
