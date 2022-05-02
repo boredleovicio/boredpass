@@ -1,8 +1,8 @@
 {
-  "name": "O Carteiro NFT - Membership",
+  "name": "Keep Bored Pass",
   "description": "Os membros têm acesso especial a benefícios exclusivos",
   "image": "",
   "external_link": "https://discord.gg/rkumvUWgYP",
-  "seller_fee_basis_points": 100,
+  "seller_fee_basis_points": 500,
   "fee_recipient": "0xF903726BA1537cb9AA266bAFC11D73ba5F1eF348"
 }
